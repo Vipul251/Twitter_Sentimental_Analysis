@@ -19,12 +19,6 @@ I’ve been integrating `txtai` into my projects to create more intelligent sear
 - **Graph and Topic Modeling**: Understand relationships and topics within large datasets.
 - **LLM Workflows**: Seamlessly orchestrate language model prompts and responses using embedded knowledge.
 
-## How to Get Started
-
-If you'd like to try `txtai` or contribute to your own projects, here’s how:
-1. **Read the Documentation**: The [txtai documentation](https://github.com/neuml/txtai) provides all the details you need to set up and run it.
-2. **Join the Community**: Connect with others using `txtai` through the [Slack community](https://join.slack.com/t/txtai/shared_invite/zt-1cagya4yf-DQeuZbd~aMwH5pckBU4vPg).
-3. **Explore the Code**: The project’s GitHub repository contains example workflows and guides to get you started.
 
 ## Final Thoughts
 
